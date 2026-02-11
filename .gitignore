@@ -1,0 +1,6 @@
+model/
+*.exe
+venv/
+dist/
+build/
+__pycache__/
