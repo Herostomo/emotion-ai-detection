@@ -69,6 +69,7 @@ python main.py
 📦 Windows Executable:
 A packaged .exe version of this application is available separately for users who do not want to install Python.
 ⚠ Large AI model files and executables are not stored in this repository due to GitHub size limits.
+To download the model link:https://emotion-detection-opal.vercel.app/
 
 🎯 Project Goal
 
